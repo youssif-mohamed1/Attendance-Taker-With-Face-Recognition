@@ -1,0 +1,4 @@
+﻿  MyForm1.cpp
+C:\Youssif Mohamed\coding\projects\Multi-options Attendance System\Multi-options Attendance System GUI\Multi-options Attendance System GUI\wait\MyForm1.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Datain.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  wait.vcxproj -> C:\Youssif Mohamed\coding\projects\Multi-options Attendance System\Multi-options Attendance System GUI\Multi-options Attendance System GUI\x64\Debug\wait.exe
